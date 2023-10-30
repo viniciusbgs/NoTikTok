@@ -1,1 +1,1 @@
-# NotTikTok
+# NoTikTok
