@@ -33,12 +33,12 @@ This test project is initially a visual clone of the Spotify and SoundCloud inte
 ## Main routes
 - `/notiktok` — Home page with platform selection
 - `/spotify` — Spotify-inspired interface (Vini)
-- `/soundcloud` — SoundCloud-inspired interface (Tutrux)
+- `/soundcloud` — SoundCloud-inspired interface (Tutryx)
 
 ## Folder structure
 - `src/app/notiktok/` — Home page (NoTikTok)
 - `src/app/spotify/` — Spotify page (Vini)
-- `src/app/soundcloud/` — SoundCloud page (Tutrux)
+- `src/app/soundcloud/` — SoundCloud page (Tutryx)
 - `public/` — Logo images (TikTok, Spotify, SoundCloud)
 
 ## Notes
